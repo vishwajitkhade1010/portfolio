@@ -1,3 +1,23 @@
+February 2023 Batch
+Steps for GitHub and Portfolio FilesMaterial details
+Steps for GitHub and Portfolio Files
+Priya Mallikarjun Khairate
+•
+19 Jun
+Please Find the below attachments and follow the guidelines instructed in the class.
+
+index.html
+HTML
+
+sty.css
+Style Sheet
+
+GitHub steps.pdf
+PDF
+Class comments
+
+Add class comment…
+
 *{
     padding: 0;
     margin: 0;
@@ -220,5 +240,28 @@ table{
     color: #eee;
     padding: 0. 5rem;
 }
-sty.css
-Displaying sty.css.
+.links .Roww{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 3rem 0;
+}
+
+.links .Roww .dett{
+    flex: 1 1 48rem;
+    padding: 2rem 1rem;
+    padding-left: 8rem;
+}
+
+.links .Roww .dett h3{
+    font-size: 2rem;
+    color: yellow;
+    padding: 1rem 0;
+    font-weight: normal;
+}
+
+.links .Roww .dett h3 span{
+    color: #eee;
+    padding: 0. 5rem;
+}
